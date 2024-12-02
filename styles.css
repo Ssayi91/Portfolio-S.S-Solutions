@@ -466,5 +466,9 @@ nav {
   .portfolio__banner {
     grid-template-columns: repeat(3, 1fr);
   }
+  .contact__socials{
+    display: flex;
+    flex-direction: column;
+  }
 }
 
